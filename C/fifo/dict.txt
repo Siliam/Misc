@@ -1,0 +1,5 @@
+lire	read
+écrire	write
+c'est	it's
+salut	hello
+moi		me
